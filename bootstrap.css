@@ -1,0 +1,30 @@
+
+
+
+
+body,
+html{
+  width: 100%;
+  height: 100%;
+  background: url(imges23.avif)  no-repeat center  center fixed;
+  background-size: cover;
+}
+
+
+h1{
+  font-size: 3rem; 
+}
+.btn{
+  font-weight: 700;
+  border-radius: 350px;
+
+  text-transform: uppercase;
+}
+.btn-xl{
+
+  padding: 1rem 2rem;
+}
+
+.btn-primary{
+  background-color: #f05f44;
+}

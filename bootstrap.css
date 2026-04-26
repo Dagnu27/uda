@@ -28,3 +28,16 @@ h1{
 .btn-primary{
   background-color: #f05f44;
 }
+ hr{
+  border-color: #ee4b08;
+  border-width: 7px;
+  max-width: 65px;
+  padding:"200px"
+ }
+    .buffer{
+      height: 10rem;
+    }
+.btn-primary:hover{
+  background-color: #ee4b08;
+  border-width: 4px;
+}     
